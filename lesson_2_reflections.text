@@ -18,6 +18,7 @@ How do the diagrams help you visualize the branch structure?
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+  Combine two features or bug fixes that have been tested together. 
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
